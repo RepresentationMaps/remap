@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+  <name>remap</name>
+  <version>0.0.0</version>
+  <description>The reMap framework for dense 3D world representation</description>
+  <maintainer email="lorenzo.ferrini@pal-robotics.com">Lorenzo Ferrini</maintainer>
+  <maintainer email="severin.lemaignan@pal-robotics.com">Séverin Lemaignan</maintainer>
+  <license>Apache-2.0</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <depend>remap_msgs</depend>
+  <!--
+  <depend>remap_manager</depend>
+  <depend>remap_plugin_objects</depend>
+  <depend>remap_plugin_faces</depend>
+  <depend>remap_plugin_nav_map</depend>
+  <depend>remap_plugin_spatial_relations</depend>
+  -->
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
