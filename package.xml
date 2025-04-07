@@ -10,14 +10,16 @@
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
-  <depend>remap_msgs</depend>
   <depend>remap_manager</depend>
-  <depend>remap_plugin_objects</depend>
+  <depend>remap_map_handler</depend>
+  <depend>remap_msgs</depend>
+  <depend>remap_regions_register</depend>
+  <depend>remap_plugin_base</depend>
   <depend>remap_plugin_faces</depend>
-  <!--
   <depend>remap_plugin_nav_map</depend>
-  <depend>remap_plugin_spatial_relations</depend>
-  -->
+  <depend>remap_plugin_objects</depend>
+  <depend>remap_plugin_query</depend>
+  <depend>remap_plugin_robot</depend>
 
   <export>
     <build_type>ament_cmake</build_type>
