@@ -2,6 +2,12 @@
 Changelog for package remap
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* updated with all the remap packages
+* updated README
+* Contributors: Lorenzo Ferrini
+
 0.2.0 (2025-02-24)
 ------------------
 * add remap_manager + objects and faces plugins
