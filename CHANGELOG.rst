@@ -2,8 +2,8 @@
 Changelog for package remap
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.3.0 (2026-10-06)
+------------------
 * updated with all the remap packages
 * updated README
 * Contributors: Lorenzo Ferrini
